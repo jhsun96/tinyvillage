@@ -18,6 +18,12 @@
     {% include head-custom.html %}
   </head>
   <body>
+      <section>
+
+      {{ content }}
+
+      </section>    
+    
       <iframe src="https://open.spotify.com/embed/playlist/2VojZ70yfWaSeVfY2gjwVC?theme=0" width="20%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media" style="align-iten:center;align-content:center;align-self:center;margin: 0;    position: absolute;    top: 50%;    left: 50%;    -ms-transform: translate(-50%, -50%);    transform: translate(-50%, -50%); "></iframe>
       <video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
         <source src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
@@ -52,11 +58,7 @@
 <!--        </ul>-->
 <!--        {% endif %}-->
 <!--      </header>-->
-      <section>
 
-      {{ content }}
-
-      </section>
 <!--      <footer>-->
 <!--        {% if site.github.is_project_page %}-->
 <!--        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>-->
