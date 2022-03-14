@@ -8,6 +8,24 @@
  }
 }
 
+@font-face {
+font-family: 'uglydave';
+src: url('/fonts/Ugly-Dave-Regular.woff2') format('woff2'),
+url('/fonts/Ugly-Dave-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'uglydavealternates';
+src: url('/fonts/Ugly-Dave-Alternates.woff2') format('woff2'),
+url('/fonts/Ugly-Dave-Alternates.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
 #myVideo {
   object-fit: cover;
   position: absolute;
@@ -26,9 +44,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'uglydave', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 .header{
   position: relative;
   color: white;
   text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+  font-family: 'uglydave', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  font-family: 'uglydave', -apple-system, BlinkMacSystemFont, sans-serif;  
 }
