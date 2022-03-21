@@ -51,10 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - sunday april 24 7-11:30pm @ green room
 
 # private events:
-- friday april 22 community cypher
-dj: andrew
-music: hiphop / house / r&b
-location: tbd (likely green room)
+- friday april 22 community cypher | dj: andrew | music: hiphop / house / r&b | location: tbd (likely green room)
 
 
 # questions?
