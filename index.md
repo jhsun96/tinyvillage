@@ -38,17 +38,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  -->
 # SESSIONS
 ## hiphop
-- saturday march 26 4-6pm | tfc studio 2
-- saturday april 2 4-6pm | tfc studio 2
-- saturday april 9 4-6pm | tfc studio 2
+- saturday march 26 4-6pm @ tfc studio 2
+- saturday april 2 4-6pm @ tfc studio 2
+- saturday april 9 4-6pm @ tfc studio 2
 - saturday april 16 (cancelled)
-- saturday april 23 4-6pm | tfc studio 2
+- saturday april 23 4-6pm @ tfc studio 2
 
 ## hiphop / house
-- every friday | jess's place (give heads up if you want to come!)
+- every friday @ jess's place (give heads up if you want to come!)
 
 ## open practice
-- sunday april 24 7-11:30pm | green room
+- sunday april 24 7-11:30pm @ green room
 
 # EVENTS
 - friday april 22 community cypher | dj: andrew | music: hiphop / house / r&b | location: tbd (likely green room)
