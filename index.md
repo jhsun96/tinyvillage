@@ -38,9 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  -->
 # private sessions:
 ## saturday sessions: hiphop
-- saturday march 26 4-6pm @ tfc (union sq) studio 2
-- saturday april 2 4-6pm @ tfc (union sq) studio 2
-- saturday april 9 4-6pm @ tfc (union sq) studio 2
+- saturday march 26 4-6pm @ tfc studio 2
+- saturday april 2 4-6pm @ tfc studio 2
+- saturday april 9 4-6pm @ tfc studio 2
 - saturday april 16 (cancelled)
 - saturday april 23 4-6pm @ tfc studio 2
 
@@ -48,13 +48,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - every friday @ jess's place (give heads up if you want to come!)
 
 ## sunday sessions: open practice
-- sunday april 24 7-11:30pm @ green room (harvard)
+- sunday april 24 7-11:30pm @ green room
 
 # private events:
 - friday april 22 community cypher
 dj: andrew
 music: hiphop / house / r&b
-location: tbd
+location: tbd (likely green room)
 
 
 # questions?
