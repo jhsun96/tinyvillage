@@ -36,8 +36,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
  -->
-# hello world
+# sessions
+## saturday march 26 4-6pm @ tfc (union sq), studio 2
+## saturday april 2 4-6pm @ tfc (union sq), studio 2
+## saturday april 9 4-6pm @ tfc (union sq), studio 2
+## saturday april 16 (cancelled)
+## saturday april 23 4-6pm @ tfc, studio 2
+## saturday april 24 7-11:30pm @ green room (harvard)
 
-## banananas
-
-#### are the best
+# events
+## friday april 22 community cypher
+## dj: andrew
+## music: hiphop / house / r&b
+## location: tbd
