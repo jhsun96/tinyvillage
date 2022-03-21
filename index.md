@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
  -->
-# PRIVATE SESSIONS
+# SESSIONS
 ## hiphop
 - saturday march 26 4-6pm @ tfc studio 2
 - saturday april 2 4-6pm @ tfc studio 2
@@ -50,7 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## open practice
 - sunday april 24 7-11:30pm @ green room
 
-# PRIVATE SESSIONS
+# EVENTS
 - friday april 22 community cypher | dj: andrew | music: hiphop / house / r&b | location: tbd (likely green room)
 
 # QUESTIONS / RSVP?
