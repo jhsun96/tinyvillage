@@ -54,4 +54,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - friday april 22 community cypher | dj: andrew | music: hiphop / house / r&b | location: tbd (likely green room)
 
 # QUESTIONS / RSVP?
-- ask zach
+- ask zach or jess
