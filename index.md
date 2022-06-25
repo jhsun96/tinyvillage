@@ -36,6 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
  -->
-# 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+## <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-99e20120-945c-4a21-b785-21ff8b5b4cdf"></div>
